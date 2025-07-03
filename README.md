@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I mainly learn stuff by myself<br><br>- 📚 Currently learning Go and the basics of web development<br><br>- ⚡ In my free time I like to play RPGs and Warframe<br><br>- 🎄 Currently doing the Advent Of Code 2024 Edition (although I'm afraid I'm a bit late on it)</p>
+<p align="left">- 🔭 I mainly learn stuff by myself<br><br>- 📚 Currently learning Go and the basics of web development<br><br>- ⚡ In my free time I like to play RPGs and Warframe<br><br></p>
 
 ###
 
