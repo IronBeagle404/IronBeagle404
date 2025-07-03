@@ -3,29 +3,10 @@
 </div>
 
 ###
+<br>
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h1 align="center">
+<i>"Abandon all hope, ye who enter here, to find decent code."</i>
+</h1> 
 
-###
-
-<p align="left">- 🔭 I mainly learn stuff by myself<br><br>- 📚 Currently learning Go and the basics of web development<br><br>- ⚡ In my free time I like to play RPGs and Warframe<br><br></p>
-
-###
-
-<h3 align="left">🛠️ Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
+<p align=center>- IronBeagle<br>poet, philosopher, but mostly unemployed</p>
