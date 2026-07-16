@@ -1,16 +1,17 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=IronBeagle&textBg=false&section=header&reversal=false&animation=fadeIn)
+
+# 💫 About Me:
+
+<div >
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5jbnJmZHFtZzN2cnB5a2F4YTBvd2k1ZzA4bTRvNzc4aG9qcnVhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"  />
 </div>
-
-###
+Hello, I'm IronBeagle (or Oscar, depending on whether I'm trolling or looking for a job) <br>
+I'm a student developer at Zone01 <br>
+I'm currently looking for an internship in web development or other IT-related work.
 
 <br>
 
-Hello, I'm IronBeagle (or Oscar, depending on whether I'm trolling or looking for a job) <br>
-I'm a student developper at Zone01 <br>
-I'm currently looking for an internship in web developpment or other IT-related work.
-
-Here are some of the techs/tools I use :
+# 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,8 +33,10 @@ Here are some of the techs/tools I use :
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<br>
+
 <h1 align="center">
 <i>"Abandon all hope, ye who enter here, to find decent code."</i>
 </h1>
 
-<p align=center>- IronBeagle<br>poet, philosopher, but mostly unemployed</p>
+<p align=center>- IronBeagle<br>poet, philosopher, human who speaks with computers</p>
